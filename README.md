@@ -8,4 +8,3 @@
 __this is bold__
 *this is don't know*
 
-theme: jekyll-theme-THEME-NAME
